@@ -1,0 +1,6 @@
+{
+  "name": "Autorský Workshop",
+  "description": "Aplikace pro organizaci autorských workshopů, spravedlivé rozdělení řečníků a časomíru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
